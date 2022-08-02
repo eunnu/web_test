@@ -1,0 +1,25 @@
+@import "reset.css";
+
+body {
+    background-color : None;
+}
+h1 {
+    font-size: 50px;
+    color: red;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(230, 101, 16);
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+h3 {
+    font-size: 25px;
+    color: rgb(255, 230, 0);
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
